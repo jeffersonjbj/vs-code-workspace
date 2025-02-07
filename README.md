@@ -1,2 +1,2 @@
 # vs-code-workspace
-Meu repositório java bradesco. Alterando conteudo local
+Meu repositório java bradesco. Alterando conteudo local.
